@@ -1,0 +1,1 @@
+hora=int(input("ingrese la cantidad de segundos pasados desde el evento: "
